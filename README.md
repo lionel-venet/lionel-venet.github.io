@@ -1,24 +1,42 @@
-# Portfolio Lionel Venet
+# Portfolio professionnel - Lionel Venet
 
-Portfolio statique prêt pour GitHub Pages.
+Portfolio de **Lionel Venet**, technicien systèmes et réseaux junior en reconversion.
 
-## Fichiers
-- `index.html` : contenu du site
-- `style.css` : design responsive
-- `script.js` : animations et année automatique
+Le site présente mon parcours, mes compétences techniques et les environnements que j'ai réellement manipulés en formation et en laboratoire personnel.
 
-## Avant publication
-Dans `index.html`, remplacer :
-- `VOTRE_EMAIL`
-- `VOTRE_LIEN_LINKEDIN`
-- `VOTRE_LIEN_GITHUB`
+## Compétences mises en avant
 
-## Publication GitHub Pages
-1. Créer un dépôt GitHub, par exemple `portfolio`.
-2. Ajouter les trois fichiers du site à la racine du dépôt.
-3. Ouvrir **Settings > Pages**.
-4. Dans **Build and deployment**, choisir **Deploy from a branch**.
-5. Sélectionner la branche `main` et le dossier `/root`.
-6. Enregistrer.
+- Support IT et assistance utilisateur N1/N2
+- Windows Server et Active Directory
+- Réseaux TCP/IP, VLAN, DHCP, DNS et ACL
+- GLPI et gestion d'incidents
+- Virtualisation avec Proxmox et VMware
+- Fondamentaux cybersécurité
 
-Le site sera ensuite accessible via l'adresse GitHub Pages indiquée par GitHub.
+## Projets présentés
+
+- Laboratoire support IT et GLPI
+- Windows Server et Active Directory
+- Réseau Cisco Packet Tracer
+- Infrastructure virtualisée sous Proxmox
+
+## Parcours
+
+- Titre professionnel TSSR - RNCP niveau 5 - en cours
+- Google IT Support Professional Certificate - en cours
+- Cisco Networking Academy - parcours CCST Cybersecurity et fondamentaux réseau
+- SecNumAcadémie - ANSSI
+- Club EBIOS
+- Microsoft Learn
+- TryHackMe
+
+## Technologies du portfolio
+
+Site statique réalisé en **HTML, CSS et JavaScript**, hébergé gratuitement avec **GitHub Pages**.
+
+## Liens
+
+- Portfolio : https://lionel-venet.github.io/
+- LinkedIn : https://www.linkedin.com/in/lionel-venet-ba34a0359
+- GitHub : https://github.com/lionel-venet
+- Contact : lionel.venet.it@proton.me
